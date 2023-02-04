@@ -11,15 +11,16 @@ body {
     
 }
 
-.header {
-    background-color: rgb(21, 128, 36);
+.navbar {
     display: flex;
-    flex-flow: row nowrap;
-    justify-content: flex-start;
     align-items: center;
-    flex: 1 1 auto;
-    
+    justify-content: space-between;
+    padding: 18px;
+    background-color: rgb(21, 128, 36);
+    color: #fff;
 }
+    
+
 h2 {
     color: bisque;
 }
