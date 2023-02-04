@@ -16,13 +16,13 @@ body {
     align-items: center;
     justify-content: space-between;
     padding: 8px;
-    background-color: #B99B6B;
-    color: #fff;
+    background-color: 698269;
+    color: #F1DBBF;
 }
     
 
-h2 a {
-    color: #fff;
+h2 {
+    color: #F1DBBF;
 }
 
 ul {
@@ -31,4 +31,12 @@ ul {
     justify-content: flex-end;
     align-self: flex-end;
     gap: 10px;
+}
+a {
+    text-decoration: none;
+}
+
+#grabber {
+    display: flex;
+
 }
