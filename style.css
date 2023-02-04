@@ -1,3 +1,29 @@
 html {
     scroll-behavior: smooth;
 }
+
+body {
+    background-color: rgb(21, 128, 36);
+    
+}
+
+.header {
+    background-color: rgb(21, 128, 36);
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    flex: 1 1 auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2 {
+    color: bisque;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+    align-self: flex-end;
+    gap: 10px;
+}
