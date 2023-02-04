@@ -4,6 +4,10 @@ html {
 
 body {
     background-color: rgb(21, 128, 36);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
     
 }
 
@@ -14,7 +18,7 @@ body {
     justify-content: flex-start;
     align-items: center;
     flex: 1 1 auto;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
 }
 h2 {
     color: bisque;
