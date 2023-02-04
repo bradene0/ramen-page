@@ -3,9 +3,10 @@ html {
 }
 
 body {
-    background-color: #698269;
+    background-color: #539092;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin: 0;
+    margin: 40px;
+    margin-top: -15px;
     padding: 0;
     box-sizing: border-box;
     
@@ -16,13 +17,13 @@ body {
     align-items: center;
     justify-content: space-between;
     padding: 8px;
-    background-color: 698269;
-    color: #F1DBBF;
+    background-color: #539092;
+    color: #539092;
 }
     
 
 h2 {
-    color: #F1DBBF;
+    color: black;
 }
 
 ul {
@@ -38,5 +39,8 @@ a {
 
 #grabber {
     display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
 
 }
