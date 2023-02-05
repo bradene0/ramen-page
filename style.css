@@ -172,3 +172,14 @@ footer {
     border-color: #913175;
     background-color: #913175;
 }
+
+.quote {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex: 1 1 auto;
+    background-color: #CD5888;
+    color: #20262E;
+    padding: 50px;
+}
