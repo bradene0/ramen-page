@@ -35,7 +35,17 @@ ul {
     gap: 10px;
 }
 a {
+    display: block;
+    padding: 7px;
     text-decoration: none;
+    font-weight: 700px;
+    background-color: #297CA0;
+    
+}
+
+a:hover {
+    border: 1px solid #539092;
+    background-color: #BBBBBB;
 }
 
 #grabber {
@@ -67,3 +77,4 @@ button {
     padding: 2px;
     
 }
+
