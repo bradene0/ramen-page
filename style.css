@@ -83,6 +83,7 @@ button {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-color: #297CA0;
     
 }
 
@@ -151,4 +152,7 @@ button {
 
 .guncap {
     display: block;
+}
+.footer {
+    background-color: #913175;
 }
