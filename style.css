@@ -101,3 +101,54 @@ button {
 .rosycap {
     display: block;
 }
+
+.joy {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 120px;
+}
+
+#joy {
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+}
+
+.joycap {
+    display: block;
+}
+
+.doc {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 120px;
+}
+
+#doc {
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+}
+
+.doccap {
+    display: block;
+}
+
+.gunner {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 120px;
+}
+
+#gunner {
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+}
+
+.guncap {
+    display: block;
+}
