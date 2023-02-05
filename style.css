@@ -174,11 +174,7 @@ footer {
 }
 
 .quote {
-    display: flex;
-    flex-flow: column wrap;
-    justify-content: flex-end;
-    align-items: flex-end;
-    flex: 1 1 auto;
+    display: block;
     background-color: #CD5888;
     color: #20262E;
     padding: 50px;
