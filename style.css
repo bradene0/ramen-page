@@ -165,12 +165,14 @@ button {
     display: block;
 }
 footer {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    margin: 0;
-    padding: 0px;
     display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
     border-color: #913175;
     background-color: #913175;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 50px;
 }
 
 .quote {
@@ -180,4 +182,17 @@ footer {
     background-color: #CD5888;
     color: #20262E;
     padding: 50px;
+}
+
+#button-foot {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    position: absolute;
+    top: 160%;
+}
+.subtext-foot {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
 }
