@@ -174,7 +174,9 @@ footer {
 }
 
 .quote {
-    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: #CD5888;
     color: #20262E;
     padding: 50px;
