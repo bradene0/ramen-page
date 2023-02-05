@@ -54,8 +54,11 @@ a {
 }
 
 .basic-ramen {
-    display: flex;
-    justify-content: flex-end;
+    position: absolute;
+    top: 11%;
+    left: 62%;
+    width: 220px;
+    height: 220px;
 }
 
 button {
