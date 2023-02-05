@@ -85,3 +85,19 @@ button {
     align-items: center;
     
 }
+
+.rosy {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 120px;
+}
+
+#rosy {
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+}
+.rosycap {
+    display: block;
+}
