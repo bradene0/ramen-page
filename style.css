@@ -71,7 +71,7 @@ a:hover {
     height: 220px;
 }
 
-button {
+.button {
     background-color: #E9EA77;
     border-radius: 20px;
     padding: 2px;
