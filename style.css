@@ -18,13 +18,13 @@ body {
     justify-content: space-between;
     padding-left: 120px;
     padding-right: 120px;
-    background-color: #539092;
+    background-color: #46185F;
     color: #539092;
 }
     
 
 h2 {
-    color: #F5FAC8;
+    color: #BBBBBB;
 }
 
 ul {
@@ -43,7 +43,7 @@ a {
     flex-direction: column;
     justify-content: space-between;
     align-items: flex-start;
-    background-color: #8BCFCC;
+    background-color: #46185F;
     padding-left: 120px;
     padding-right: 120px;
     padding-top: 40px;
