@@ -46,11 +46,21 @@ a {
     background-color: #8BCFCC;
     padding-left: 120px;
     padding-right: 120px;
+    padding-top: 40px;
+    padding-bottom: 40px;
     
     
 
 }
+
+.basic-ramen {
+    display: flex;
+    justify-content: flex-end;
+}
+
 button {
     background-color: #539092;
     border-radius: 20px;
+    padding: 2px;
+    
 }
