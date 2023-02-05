@@ -190,7 +190,7 @@ footer {
     flex-direction: column;
     align-self: center;
     position: absolute;
-    top: 160%;
+    top: 150%;
 }
 .subtext-foot {
     display: flex;
