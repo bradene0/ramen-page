@@ -167,13 +167,14 @@ button {
 footer {
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
+    justify-content: center;
     border-color: #913175;
     background-color: #913175;
     padding-left: 120px;
     padding-right: 120px;
     padding-top: 50px;
     padding-bottom: 50px;
+    align-items: center;
 }
 
 .quote {
@@ -190,7 +191,7 @@ footer {
     flex-direction: column;
     align-self: center;
     position: absolute;
-    top: 150%;
+    top: 138%;
 }
 .subtext-foot {
     display: flex;
